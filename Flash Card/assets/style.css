@@ -1,0 +1,17 @@
+body  {
+    background-color: antiquewhite;
+font-family: Bai Jamjuree;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    height: 1rem;
+}
